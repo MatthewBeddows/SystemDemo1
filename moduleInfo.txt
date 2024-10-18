@@ -1,5 +1,5 @@
-[Module Info] Magnet System
-The Magnet System is the core component of an MRI machine, responsible for generating a stable and homogeneous magnetic field, which is essential for high-resolution MRI imaging. This system typically employs superconducting materials cooled to cryogenic temperatures to achieve the necessary field strength and stability.
+[Module Name] Magnet System
+[Module Info] The Magnet System is the core component of an MRI machine, responsible for generating a stable and homogeneous magnetic field, which is essential for high-resolution MRI imaging. This system typically employs superconducting materials cooled to cryogenic temperatures to achieve the necessary field strength and stability.
 
 [Submodules]
 [Module Address] https://github.com/MatthewBeddows/ModuleDemo1
